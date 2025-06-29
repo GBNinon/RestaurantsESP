@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "title": "De Vila Restaurante",
+  "address": "Carrer de la Mare de Déu, 07800 Ibiza",
+  "author": "",
+  "commentsEnabled": true,
+  "commentsPostUrl": "",
+  "commentsUrl": "",
+  "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve,e_sharpen/v1740149127/De_Vila_RestauranteIbiza_acq9dw.jpg\" target=\"_blank\"><img src=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve,e_sharpen/v1740149127/De_Vila_RestauranteIbiza_acq9dw.jpg\" alt=\"De Vila Restaurante\" title=\"De Vila Restaurante\" /></a></div><br class=\"clear\" /><div class=\"texte\"><p>Esta joya escondida ofrece una mezcla de tapas y grandes platos clásicos españoles/ibicencos en un entorno acogedor e informal. Con una amplia terraza exterior, calefactores y un ambiente muy familiar, es perfecto para familias que buscan una comida relajada mientras los niños juegan en el enorme parque infantil de la plaza justo al lado.</p></div><br class=\"clear\" />",
+  "date": "2025-01-05T00:00:00+01:00",
+  "email": "",
+  "images": [
+    {
+      "id": "img-1",
+      "url": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve,e_sharpen/v1740149127/De_Vila_RestauranteIbiza_acq9dw.jpg"
+    }
+  ],
+  "largeThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve,e_sharpen/v1740149127/De_Vila_RestauranteIbiza_acq9dw.jpg",
+  "latitude": "38.912893",
+  "longitude": "1.425475",
+  "nbcomments": 0,
+  "originalThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve,e_sharpen/v1740149127/De_Vila_RestauranteIbiza_acq9dw.jpg",
+  "phoneNumber": "+34 971 30 54 54",
+  "pinIconColor": "#bb749f",
+  "pinIconHeight": 300,
+  "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
+  "pinIconWidth": 150,
+  "smallThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve,e_sharpen/v1740149127/De_Vila_RestauranteIbiza_acq9dw.jpg",
+  "subtype": "restaurants",
+  "summary": "This hidden gem offers a mix of tapas and great classic Spanish/Ibiza dishes in a cozy and casual setting",
+  "thumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve,e_sharpen/v1740149127/De_Vila_RestauranteIbiza_acq9dw.jpg",
+  "type": "maps",
+  "url": "https://devila.es/",
+  "website": "https://devila.es/"
+}
